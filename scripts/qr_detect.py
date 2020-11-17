@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+-
++# My edit
 
 
 '''
@@ -15,7 +17,8 @@ import numpy as np
 import rospy
 
 class image_proc():
-
+.
+http://www.github.com/smitkesaria/vitarana_drone.git
 	# Initialise everything
 	def __init__(self):
 		rospy.init_node('barcode_test') #Initialise rosnode 
